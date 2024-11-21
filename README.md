@@ -6,5 +6,5 @@ This project demonstrates a simple Java program to perform basic and advanced ma
 
 Author:
 > Gunawan Widya Nugraha
-- Faculty of Information Technology
+- Class 1A of Faculty of Information Technology
 - Merdeka Malang University
