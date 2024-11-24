@@ -13,9 +13,6 @@ import java.util.Scanner;
 public class MatematikaCanggihBeraksi {
     public static void main(String[] args) {
         MatematikaCanggih matCanggih = new MatematikaCanggih();
-        
-        // Angka yang akan dihitung
-//        int a = 10, b = 3;
 
         Scanner scanner = new Scanner(System.in);
         
